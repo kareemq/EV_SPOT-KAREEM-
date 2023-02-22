@@ -1,0 +1,9 @@
+    <script src="../assets/vendor/jquery/jquery.min.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/owl-carousel/owl.carousel.min.js"></script>
+    <script src="../assets/vendor/nouislider/nouislider.min.js"></script>
+    <script src="../assets/vendor/photoswipe/photoswipe.min.js"></script>
+    <script src="../assets/vendor/photoswipe/photoswipe-ui-default.min.js"></script>
+    <script src="../assets/vendor/select2/js/select2.min.js"></script>
+    <script src="../assets/js/number.js"></script>
+    <script src="../assets/js/main.js"></script>
